@@ -9,6 +9,10 @@ you can use this for:
   * SQLi
   * Template Injection
 
+## resource 
+https://www.compart.com/en/unicode
+https://jlajara.gitlab.io/posts/2020/02/19/Bypass_WAF_Unicode.html
+
 ## made with python3.0 >= 3.7
 
 ### usage 

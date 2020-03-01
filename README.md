@@ -8,4 +8,4 @@ A simple python3 script that generate unicode payloads
 python3.7 main.py <script>alert(1)</script>
 ```
 
-[](https://raw.githubusercontent.com/t0gu/unicode-pwn/master/unicode.gif)
+![]((https://raw.githubusercontent.com/t0gu/unicode-pwn/master/unicode.gif))

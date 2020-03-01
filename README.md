@@ -1,5 +1,13 @@
 # unicode-pwn
 A simple python3 script that generate unicode payloads
+you can use this for:
+
+* Generate payloads for
+  * SSRF
+  * XSS
+  * PathTraversal
+  * SQLi
+  * Template Injection
 
 ## made with python3.0 >= 3.7
 
